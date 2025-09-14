@@ -1,4 +1,4 @@
-<img width="1837" height="85" alt="image" src="https://github.com/user-attachments/assets/c9fe9289-de3f-4ba9-ae0f-6062435888bc" /># SEU_passwordlock
+# SEU_passwordlock
 ## 东南大学信息大三暑期FPGA项目六位密码锁
 
 这是东南大学暑期信息工程大三暑校的FPGA密码锁Verilog代码，在vivado平台实现。包含一个顶层文件[password_lock.v](password_lock.v)，一个模块化文件[digital.v](digital.v)和一个约束文件[nexys4ddr_password_lock_fixed.xdc](nexys4ddr_password_lock_fixed.xdc)。
