@@ -1,4 +1,4 @@
-# SEU_passwordlock (V2.0 重构版)
+# SEU_passwordlock 
 
 ## 东南大学信息大三暑期 FPGA 项目：高可靠性六位电子密码锁
 
